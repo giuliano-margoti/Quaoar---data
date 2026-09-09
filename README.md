@@ -110,13 +110,3 @@ This is a comma-separated file containing the photometry extracted from the HST 
 | **11** | `center_ra` | Right Ascension (RA) of the target center |
 | **12** | `center_dec` | Declination (Dec) of the target center |
 | **13** | `ap_arcsec` | Photometric aperture radius (in arcseconds) |
-
----
-
-## 3. Ephemerides (`/ephem`)
-
-The reference ephemeris files used in our calculations are provided.
-
-* **`de440.bsp`**: The standard JPL Planetary Ephemeris (DE440).
-* **`50000_Quaoar_nima_v19l.bsp`**: The specific state vectors and ephemeris generated for (50000) Quaoar.
-
