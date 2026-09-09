@@ -113,7 +113,7 @@ This is a comma-separated file containing the photometry extracted from the HST 
 
 ---
 
-## 3. Ephemerides (`/ephemeris`)
+## 3. Ephemerides (`/ephem`)
 
 The reference ephemeris files used in our calculations are provided.
 
