@@ -1,0 +1,8 @@
+  -540.086   -112.271  20.10   2.12 2458326.12837399 Yass_Valley_immersion
+   597.277      7.828  20.10   2.12 2458326.12902880 Yass_Valley_emersion
+  -541.329    -90.609  20.10   2.12 2458326.12836589 Blakney_Creek_immersion
+   591.767     29.021  20.10   2.12 2458326.12901822 Blakney_Creek_emersion
+  -542.771    -41.409  20.10   2.12 2458326.12828253 Hawkesbury_Heights_immersion
+   592.106     78.288  20.10   2.12 2458326.12893606 Hawkesbury_Heights_emersion
+  -536.413    -41.255  20.10   2.12 2458326.12829221 Blue_Mountains_immersion
+   588.209     77.368  20.10   2.12 2458326.12893981 Blue_Mountains_emersion

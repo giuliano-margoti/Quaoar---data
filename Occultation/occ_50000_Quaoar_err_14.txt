@@ -1,0 +1,16 @@
+  -547.947   -113.101  20.10   2.12 2458326.12836947 Yass_Valley_immersion_err-
+  -532.225   -111.441  20.10   2.12 2458326.12837852 Yass_Valley_immersion_err+
+   586.582      6.699  20.10   2.12 2458326.12902264 Yass_Valley_emersion_err-
+   607.972      8.958  20.10   2.12 2458326.12903495 Yass_Valley_emersion_err+
+  -547.884    -91.301  20.10   2.12 2458326.12836212 Blakney_Creek_immersion_err-
+  -534.775    -89.917  20.10   2.12 2458326.12836966 Blakney_Creek_immersion_err+
+   580.891     27.873  20.10   2.12 2458326.12901196 Blakney_Creek_emersion_err-
+   602.643     30.170  20.10   2.12 2458326.12902448 Blakney_Creek_emersion_err+
+  -547.172    -41.874  20.10   2.12 2458326.12828000 Hawkesbury_Heights_immersion_err-
+  -538.369    -40.945  20.10   2.12 2458326.12828507 Hawkesbury_Heights_immersion_err+
+   579.826     76.993  20.10   2.12 2458326.12892899 Hawkesbury_Heights_emersion_err-
+   604.386     79.583  20.10   2.12 2458326.12894314 Hawkesbury_Heights_emersion_err+
+  -541.519    -41.794  20.10   2.12 2458326.12828927 Blue_Mountains_immersion_err-
+  -531.308    -40.717  20.10   2.12 2458326.12829515 Blue_Mountains_immersion_err+
+   584.370     76.963  20.10   2.12 2458326.12893760 Blue_Mountains_emersion_err-
+   592.048     77.773  20.10   2.12 2458326.12894203 Blue_Mountains_emersion_err+

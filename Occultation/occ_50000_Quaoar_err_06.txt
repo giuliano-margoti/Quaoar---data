@@ -1,0 +1,16 @@
+   555.659     62.101  -5.82   3.89 2458753.29348167 Otjozondjupa_immersion_err-
+   555.135     62.451  -5.82   3.89 2458753.29348271 Otjozondjupa_immersion_err+
+  -149.558    533.115  -5.82   3.89 2458753.29488428 Otjozondjupa_emersion_err-
+  -150.070    533.457  -5.82   3.89 2458753.29488530 Otjozondjupa_emersion_err+
+   392.662   -334.149  -5.82   3.89 2458753.29338785 Khomas_immersion_err-
+   390.765   -332.880  -5.82   3.89 2458753.29339162 Khomas_immersion_err+
+  -506.619    266.949  -5.82   3.89 2458753.29517598 Khomas_emersion_err-
+  -509.600    268.941  -5.82   3.89 2458753.29518191 Khomas_emersion_err+
+   363.470   -352.122  -5.89   3.88 2458753.29490520 Pretória_immersion_err-
+   362.564   -351.525  -5.89   3.88 2458753.29490698 Pretória_immersion_err+
+  -514.270    225.701  -5.89   3.88 2458753.29663073 Pretória_emersion_err-
+  -516.555    227.205  -5.89   3.88 2458753.29663522 Pretória_emersion_err+
+   321.759   -382.956  -5.82   3.89 2458753.29337834 bobcat_immersion_err-
+   319.474   -381.426  -5.82   3.89 2458753.29338288 bobcat_immersion_err+
+  -578.166    219.006  -5.82   3.89 2458753.29516837 bobcat_emersion_err-
+  -580.476    220.551  -5.82   3.89 2458753.29517296 bobcat_emersion_err+

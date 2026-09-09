@@ -1,0 +1,4 @@
+  -915.886   -842.790   5.45   3.75 2458364.26002457 SUpington_immersion_err-
+  -915.341   -842.415   5.45   3.75 2458364.26002573 SUpington_immersion_err+
+    -3.710   -214.808   5.45   3.75 2458364.26196243 SUpington_emersion_err-
+    -3.046   -214.351   5.45   3.75 2458364.26196384 SUpington_emersion_err+

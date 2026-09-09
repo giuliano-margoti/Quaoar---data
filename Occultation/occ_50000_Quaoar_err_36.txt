@@ -1,0 +1,8 @@
+  -449.341   -144.892  10.21   4.16 2460919.07032031 Heaven_immersion_err-
+  -434.058   -138.663  10.21   4.16 2460919.07033763 Heaven_immersion_err+
+   577.430    273.629  10.21   4.16 2460919.07148422 Heaven_emersion_err-
+   592.095    279.607  10.21   4.16 2460919.07150085 Heaven_emersion_err+
+  -434.914   -147.166  10.21   4.16 2460919.07034085 Murrumbateman_immersion_err-
+  -425.913   -143.497  10.21   4.16 2460919.07035106 Murrumbateman_immersion_err+
+   607.042    277.569  10.21   4.16 2460919.07152203 Murrumbateman_emersion_err-
+   625.493    285.091  10.21   4.16 2460919.07154294 Murrumbateman_emersion_err+
