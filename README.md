@@ -111,6 +111,3 @@ This is a comma-separated file containing the photometry extracted from the HST 
 | **12** | `center_dec` | Declination (Dec) of the target center |
 | **13** | `ap_arcsec` | Photometric aperture radius (in arcseconds) |
 
-```
-
-```
