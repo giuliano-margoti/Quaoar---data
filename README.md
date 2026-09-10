@@ -29,10 +29,12 @@ All text files within the `occultations` directory (`_pos_`, `_err_`, and `_neg_
 
 | Column | Description | Unit / Format | Example |
 | --- | --- | --- | --- |
-| **1** | **$f$ coordinate** (sky-plane position) | Kilometers (km) | `555.397` |
-| **2** | **$g$ coordinate** (sky-plane position) | Kilometers (km) | `62.276` |
-| **5** | **Time** of the event | Julian Date (JD) | `2458753.29348219` |
-| **6** | **Identifier String** (Station + Event Type) | String | `Otjozondjupa_immersion` |
+| **1** | **$f$ position** (sky-plane coordinate) | Kilometers (km) | `555.397` |
+| **2** | **$g$ position** (sky-plane coordinate) | Kilometers (km) | `62.276` |
+| **3** | **Velocity in $f$** | Kilometers/seconds (km/s) | `-5.82` |
+| **4** | **Velocity in $g$** | Kilometers/seconds (km/s) | `3.89` |
+| **5** | **Time of the observation** | Julian Date (JD) | `2458753.29348219` |
+| **6** | **Light curve name** (associated with the position) | String | `Otjozondjupa_immersion` |
 
 #### Identifiers Breakdown (Column 6):
 
