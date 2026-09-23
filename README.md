@@ -12,8 +12,8 @@ The data is organized into two main directories: `occultations` (containing mult
 │   ├── occ_50000_Quaoar_err_*.txt  (Uncertainties for positive detections)
 │   └── occ_50000_Quaoar_neg_*.txt  (Negative detection chords)
 └── rotation/
-    ├── HST_1_3_4_5.txt             (Hubble Space Telescope photometry)
-    └── quaoar_rot_giuliano.txt     (2003 photometry data)
+    ├── HST.txt             (Hubble Space Telescope photometry)
+    └── quaoar_2003.txt     (2003 photometry data)
 
 ```
 
